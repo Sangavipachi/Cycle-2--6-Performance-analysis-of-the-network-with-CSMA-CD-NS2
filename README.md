@@ -1,5 +1,7 @@
 # Cycle-2  6 PERFORMANCE ANALYSIS OF THE NETWORK WITH CSMA/CD -NS2
 PERFORMANCE ANALYSIS OF THE NETWORK WITH CSMA/CD
+## NAME : K.NITHIYASREE 
+## REG : 212223060188
 # NS2 Simulation: CSMA/CD Network Performance
 
 ## 🎯 AIM
@@ -90,20 +92,11 @@ $ns at 8.0 "finish"
 $ns run
 
 
-## 📊 MODEL OUTPUT
-<img src="C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png" alt="Code block 2" width="200"/>
+## 📊 OUTPUT
+<img width="1280" height="825" alt="WhatsApp Image 2026-09-05 at 8 49 04 PM" src="https://github.com/user-attachments/assets/b34bd551-f321-40a8-afe4-eb9988dec988" />
 
 
-## 📝 MARK ALLOCATION
 
-| Criteria      | Total Marks | Marks Obtained |
-|---------------|-------------|----------------|
-| Performance   | 20          |                |
-| Observation   | 20          |                |
-| Record        | 20          |                |
-| Output        | 20          |                |
-| Viva          | 20          |                |
-| **Total**     | **100**     |                |
 
 ## ✅ RESULT
 Thus, the performance of the network with Carrier Sense Multiple Access/Collision Detection is verified using NS2 simulation.
